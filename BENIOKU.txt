@@ -1,0 +1,10 @@
+bu program : 
+ yeni eklenen dosyalar hangileri olduğunu buluyor (veritabanı ile dosya adlarını kıyaslıyor)
+sonra yenileri de veritabanına yazıyor 
+mail ile gönderilecek html dosyasını oluşturuyor
+mail çekiyor
+
+bash rapor.sh YYYY-AA-GG
+YYYY-AA-GG yerine , raporunu almak istediğin günü YAZ
+ örneğin: 2018-06-18 RAPORU İÇİN
+ bash rapor.sh 2018-06-18

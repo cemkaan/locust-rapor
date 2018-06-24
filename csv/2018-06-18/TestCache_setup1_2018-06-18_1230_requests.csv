@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/TransferService.svc/json/TestCacheMethod",955538,807,2600,2764,29,90864,4,1049.66
+"None","Total",955538,807,2600,2764,29,90864,4,1049.66

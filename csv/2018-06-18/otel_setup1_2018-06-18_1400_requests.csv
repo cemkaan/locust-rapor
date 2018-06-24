@@ -1,0 +1,4 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/Sales/Hotel/Search.aspx",579575,0,5300,6640,62,316837,3344,485.00
+"POST","/login.aspx",8525,0,3500,71465,44,315603,3344,7.13
+"None","Total",588100,0,5300,7580,44,316837,3344,492.14
