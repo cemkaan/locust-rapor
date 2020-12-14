@@ -1,5 +1,5 @@
 # locust-csv
-report generator for load testing tool locust. 
+report generator for load testing tool [locust](https://locust.io/). 
 
 
 Almost all comments are in Turkish thus if you are interested to use this script please contact me for support.
